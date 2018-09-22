@@ -1472,6 +1472,7 @@ rubocop \
   --auto-correct
 
 . (called from block (2 levels) in <top (required)> at /home/anukhambete/rails-form_for-lab-v-000/spec/factories/students.rb:4)
+<<<<<<< HEAD
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -1528,3 +1529,5 @@ rubocop \
   --auto-correct
 
 . (called from block (2 levels) in <top (required)> at /home/anukhambete/rails-form_for-lab-v-000/spec/factories/students.rb:4)
+=======
+>>>>>>> a0d521c84d145de11a984f8936df262a93e19894
